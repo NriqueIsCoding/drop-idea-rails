@@ -1,0 +1,53 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+
+
+.container{
+background: rgba(0, 0, 0, 0.2);
+width:50%;
+height: 600px;
+padding: 30px;
+padding-top: 5px;
+margin:auto;
+font-family: 'Century Gothic',sans-serif;
+}
+
+.container h1{
+  text-align: left;
+  padding-bottom: 20px;
+  border-bottom: 1px solid gray;
+  font-weight:lighter;
+}
+
+ .logo{
+   /*background: red;*/
+  float:left;
+  margin-top:12px;
+
+}
+
+.container h3{
+  background-color: #0000ff;
+  color: white;
+  width:100px;
+  text-align:center;
+  padding: 7px 0px;
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+.button{
+  width:80px;
+  text-align:center;
+  padding: 7px 0px;
+  font-size: 15px;
+  font-weight: lighter;
+  border-radius: 2px;
+}
+
+.field{
+
+  margin:auto;
+}
